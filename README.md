@@ -1,2 +1,3 @@
 # as
-useful common events for wolf rpg editor
+役に立つかもしれないコモンイベント
+- **pool**: CDBをオブジェクトプールっぽい処理で管理する
